@@ -1,10 +1,10 @@
-# test-case-gazprom
+# test-kluatr
 
-> Test project for Gazprom 
+> Test project for Gazprom
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
