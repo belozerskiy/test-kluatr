@@ -1,6 +1,6 @@
 # test-kluatr
 
-> Test project for Gazprom
+> Test project for http://test.kluatr.ru/
 
 ## Build Setup
 
